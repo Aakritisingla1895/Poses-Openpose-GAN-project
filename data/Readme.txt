@@ -1,0 +1,2 @@
+Example mocap files are available on: https://livecoventryac-my.sharepoint.com/:u:/r/personal/ad5041_coventry_ac_uk/Documents/PyTorch_ML_Tutorials_Data/Mocap/MUR_Nov_2021/
+Example images are available on: https://livecoventryac-my.sharepoint.com/:u:/r/personal/ad5041_coventry_ac_uk/Documents/PyTorch_ML_Tutorials_Data/Images/Flickr_Dancer/
